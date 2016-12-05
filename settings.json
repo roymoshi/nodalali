@@ -1,0 +1,30 @@
+{
+  "public": {
+    "facebook": {
+      "appId": "1770953619835409"
+    },
+    "admob": {
+      "adId": "xxx"
+    },
+    "gcm": {
+      "projectNumber": "602792408466"
+    }
+  },
+  "facebook": {
+    "secret": "0facc7dc0cde71343199b0c25ddbe909"
+  },
+  "google": {
+      "clientId": "602792408466-i25820kgrbcjnef3ki8o7kg3ctqelqj5.apps.googleusercontent.com",
+      "secret": "2RF2k8ZUcgJJM8P5j5ocZ8xI"
+  },
+  "sendgrid": {
+    "apiKey": "xxx"
+  },
+  "here": {
+    "appId": "hnSI4jcAe0TdLbHdEYXY",
+    "appCode": "hLj-RaA74xAoDymMMY3aSg"
+  },
+  "gcm": {
+    "apiKey": "AAAAjFk6NZI:APA91bFJfNBMx2QkG28u1qoHWu5X2iVbgTt7AehQfcdFS8ezvcd43YXrsLloV0pA6xPO9Bi8Yhta69nsRKQttDyWXMMexbKXiYjO6jTk1hqbaEZtUfAqnJBv-mIV0-OxVgMKYKeqLW73Xs7XkPZRgESt1kCuVzSx0A"
+  }
+}
